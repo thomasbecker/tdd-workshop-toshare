@@ -12,8 +12,8 @@ package com.example.project;
 
 public class Calculator {
 
-	public int add(int a, int b) {
-		return -1;
-	}
+    public int add(int a, int b) {
+        return -1;
+    }
 
 }
