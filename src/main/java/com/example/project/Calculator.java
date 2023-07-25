@@ -10,10 +10,12 @@
 
 package com.example.project;
 
+import java.util.Vector;
+
 public class Calculator {
 
     public int add(int a, int b) {
-        return -1;
+        return a + b;
     }
 
 }
